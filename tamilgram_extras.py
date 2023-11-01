@@ -10,7 +10,7 @@ SB_TEXT1 = " 📫 MAIN CHANNEL 📫"
 SB_URL1 = "https://telegram.me/Srilinks4k_in"
 
 SB_TEXT2 = "🪩 MOVIES CHANNEL 🪩"
-SB_URL2 = "https://telegram.me/+mlWXQ79MwOYzNDVl"
+SB_URL2 = "https://t.me/+bAXLMVt6EgwyM2Q1"
 
 
 ## Auto Delete For Auto Filters ##

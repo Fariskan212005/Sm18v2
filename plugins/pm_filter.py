@@ -112,8 +112,8 @@ async def next_page(bot, query):
     btn.insert(0,
         [
             InlineKeyboardButton("SUPPORT", url="https://t.me/srilinks4ksupport"),
-            InlineKeyboardButton("CHANNEL", url="https://t.me/+yFe0Lt0U8noyMzA1"),
-            InlineKeyboardButton("BACKUP", url="https://t.me/+GpDUR8IE24I5ODI1")
+            InlineKeyboardButton("CHANNEL", url="https://t.me/+bAXLMVt6EgwyM2Q1"),
+            InlineKeyboardButton("BACKUP", url="https://t.me/srilinks4k_In/13")
         ]
     )
 
@@ -448,8 +448,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         ], [
             InlineKeyboardButton('✬ ꜱᴜᴩᴩᴏʀᴛ ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ ✬', url='https://t.me/Srilinks4k_in')
         ], [
-            InlineKeyboardButton('⊹ ɢʀᴏᴜᴩ 1 ⊹', url='https://t.me/Tamilnewmoviessearch'),
-            InlineKeyboardButton('⊹ ɢʀᴏᴜᴩ 2 ⊹', url='https://t.me/+GpDUR8IE24I5ODI1')
+            InlineKeyboardButton('⊹ Groups ⊹', url='https://t.me/srilinks4k_In/13'),
+            InlineKeyboardButton('⊹ Movies ⊹', url='https://t.me/srilinks4k_In/4')
         ], [
             InlineKeyboardButton('🧑‍🎓 ʜᴇʟᴩ 🧑‍🎓', callback_data='help'),
             InlineKeyboardButton('🎭 ᴀʙᴏᴜᴛ 🎭', callback_data='about')
@@ -850,7 +850,7 @@ async def auto_filter(client, msg, spoll=False):
         [
             InlineKeyboardButton("SUPPORT", url="https://t.me/srilinks4ksupport"),
             InlineKeyboardButton("CHANNEL", url="https://t.me/+yFe0Lt0U8noyMzA1"),
-            InlineKeyboardButton("BACKUP", url="https://t.me/+GpDUR8IE24I5ODI1")
+            InlineKeyboardButton("BACKUP", url="https://t.me/srilinks4k_In/13")
         ]
     )
     

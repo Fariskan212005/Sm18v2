@@ -14,7 +14,7 @@ def is_enabled(value, default):
 SESSION = environ.get('SESSION', 'Srilinks4k')
 API_ID = int(environ.get('API_ID', '18257551'))
 API_HASH = environ.get('API_HASH', 'dfa07466d618291967df189403d0ed17')
-BOT_TOKEN = environ.get('BOT_TOKEN', "6069395932:AAH9u2BPNZKdKe6ITNILP-BkUkj3ZCXNHEE")
+BOT_TOKEN = environ.get('BOT_TOKEN', "6984398712:AAHhIKv5kGTdpFKdf5H74GLliyP_2cX3Nac")
 
 #Port
 PORT = environ.get("PORT", "93")

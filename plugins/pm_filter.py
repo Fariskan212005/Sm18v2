@@ -849,7 +849,7 @@ async def auto_filter(client, msg, spoll=False):
     btn.insert(0,
         [
             InlineKeyboardButton("SUPPORT", url="https://t.me/srilinks4ksupport"),
-            InlineKeyboardButton("CHANNEL", url="https://t.me/+yFe0Lt0U8noyMzA1"),
+            InlineKeyboardButton("CHANNEL", url="https://t.me/+bAXLMVt6EgwyM2Q1"),
             InlineKeyboardButton("BACKUP", url="https://t.me/srilinks4k_In/13")
         ]
     )
